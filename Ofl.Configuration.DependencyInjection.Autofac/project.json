@@ -1,5 +1,7 @@
 ﻿{
-  "supports": {},
+    "authors": [ "One Frame Link" ],
+    "description": "Abstractions used by the Ofl.Configuration project.",
+    "supports": {},
   "dependencies": {
     "Autofac.Extensions.DependencyInjection": "4.0.0",
     "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
@@ -9,5 +11,22 @@
   },
   "frameworks": {
     "netstandard1.1": {}
-  }
+  },
+    "packOptions": {
+        "owners": [ "One Frame Link" ],
+
+        "summary": "Abstractions used by the Ofl.Configuration project.",
+
+        "projectUrl": "https://github.com/OneFrameLink/Ofl.Configuration.Contracts",
+
+        "iconUrl": "https://raw.githubusercontent.com/OneFrameLink/Ofl._Shared/master/OneFrameLink_225x225.png",
+
+        "licenseUrl": "https://raw.githubusercontent.com/OneFrameLink/Ofl._Shared/master/LICENSE.md",
+        "requireLicenseAcceptance": true,
+
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/OneFrameLink/Ofl.Configuration.Contracts.git"
+        }
+    }
 }
