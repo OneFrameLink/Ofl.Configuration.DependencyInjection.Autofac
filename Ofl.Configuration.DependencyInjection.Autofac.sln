@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FAA41ABC-373
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2FE44AE8-5010-45A9-8A61-9A74D0C0460F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ofl.Configuration.Tests", "test\Ofl.Configuration.DependencyInjection.Autofac.Tests\Ofl.Configuration.Tests.csproj", "{21CD1BD7-93A6-4A3E-8447-50B0B951FCE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ofl.Configuration.DependencyInjection.Autofac.Tests", "test\Ofl.Configuration.DependencyInjection.Autofac.Tests\Ofl.Configuration.DependencyInjection.Autofac.Tests.csproj", "{B615226F-CCA4-4B57-8E75-BEBCD2EE361F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,16 +20,16 @@ Global
 		{214F9EA9-2F95-49F2-AD86-75C24C5D1311}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{214F9EA9-2F95-49F2-AD86-75C24C5D1311}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{214F9EA9-2F95-49F2-AD86-75C24C5D1311}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21CD1BD7-93A6-4A3E-8447-50B0B951FCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21CD1BD7-93A6-4A3E-8447-50B0B951FCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21CD1BD7-93A6-4A3E-8447-50B0B951FCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21CD1BD7-93A6-4A3E-8447-50B0B951FCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B615226F-CCA4-4B57-8E75-BEBCD2EE361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B615226F-CCA4-4B57-8E75-BEBCD2EE361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B615226F-CCA4-4B57-8E75-BEBCD2EE361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B615226F-CCA4-4B57-8E75-BEBCD2EE361F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{214F9EA9-2F95-49F2-AD86-75C24C5D1311} = {FAA41ABC-3733-4D9E-BC41-7667EB060805}
-		{21CD1BD7-93A6-4A3E-8447-50B0B951FCE2} = {2FE44AE8-5010-45A9-8A61-9A74D0C0460F}
+		{B615226F-CCA4-4B57-8E75-BEBCD2EE361F} = {2FE44AE8-5010-45A9-8A61-9A74D0C0460F}
 	EndGlobalSection
 EndGlobal

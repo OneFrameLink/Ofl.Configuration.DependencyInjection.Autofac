@@ -1,7 +1,6 @@
-using System;
 using Xunit;
 
-namespace Ofl.Configuration.Tests
+namespace Ofl.Configuration.DependencyInjection.Autofac.Tests
 {
     public class UnitTest1
     {
