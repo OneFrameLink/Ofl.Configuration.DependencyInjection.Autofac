@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Ofl.Configuration.Abstraction implementation registrations in Autofac.</Description>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <AssemblyName>Ofl.Configuration.DependencyInjection.Autofac</AssemblyName>
+    <PackageId>Ofl.Configuration.DependencyInjection.Autofac</PackageId>
+    <PackageProjectUrl>https://github.com/OneFrameLink/Ofl.Configuration.Contracts</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/OneFrameLink/Ofl.Configuration.Contracts.git</RepositoryUrl>
+    <PackageTags>configuration dependency-injection autofac</PackageTags>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.0.0" />
+    <PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
+    <PackageReference Include="Ofl.Configuration" Version="1.0.4" />
+    <PackageReference Include="Ofl.Configuration.Contracts" Version="1.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>
