@@ -12,10 +12,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.0.0" />
-    <PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
-    <PackageReference Include="Ofl.Configuration" Version="1.0.4" />
-    <PackageReference Include="Ofl.Configuration.Contracts" Version="1.0.5" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.1.0" />
+    <PackageReference Include="Ofl.Configuration" Version="2.0.6" />
+    <PackageReference Include="Ofl.Configuration.Abstractions" Version="1.0.2" />
   </ItemGroup>
 
   <ItemGroup>
