@@ -1,6 +1,5 @@
 ﻿using System;
 using Autofac;
-using Ofl.Configuration.Abstractions;
 
 namespace Ofl.Configuration.DependencyInjection.Autofac
 {
